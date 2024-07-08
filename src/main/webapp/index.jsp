@@ -5,4 +5,6 @@
 <p>Okay.........This is testing of jenkins</p>
 <a href="about.jsp">About page</a>
 <a href="service.jsp">Service page</a>
+<a href="test.jsp">Service page</a>
+
 </html>
